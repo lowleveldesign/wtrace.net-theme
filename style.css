@@ -1436,7 +1436,7 @@ body:not(.theme-preset-active) .navbar-nav li.active > a{
 
 #content.site-content {
   padding-bottom: 3.75rem;
-  padding-top: 9.125rem;
+  padding-top: 1.0rem;
   overflow: hidden;
 }
 
