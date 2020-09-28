@@ -26,11 +26,6 @@
 							?>
                 <span class="sep"> | </span> 
                 <a href="/privacy-policy">Privacy Policy</a>
-<!--
-                <span class="sep"> | </span> 
-                		<a href="<?php echo esc_url( __( 'https://web-komp.eu/theme/wow/', 'wk-wow' ) ); ?>">
-								<?php _e( 'Theme Wow by WebKomp', 'wk-wow' ); ?>
-							</a>-->
             </div><!-- close .site-info -->
 		</div>
 	</footer><!-- #colophon -->

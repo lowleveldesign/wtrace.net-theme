@@ -4,7 +4,7 @@ Theme URI: https://web-komp.eu/theme/wow
 Author: WebKomp
 Author URI: https://web-komp.eu/
 Description: WK Wow is a beautiful, attractive, and free WordPress theme. You can use this theme for all kinds of personal and professional blogging websites. Its design and layout make it perfect to showcase your articles. This theme is based on Bootstrap 4 and adapts beautifully to all screen sizes. It is compatible with Elementor, so you can use its drag & drop functionality to design your pages. This theme is also compatible with WooCommerce and Contact Form 7. Demo: https://demo.web-komp.eu/wow
-Version: 1.0.6
+Version: 1.0.8
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wtrace.net
@@ -1436,7 +1436,7 @@ body:not(.theme-preset-active) .navbar-nav li.active > a{
 
 #content.site-content {
   padding-bottom: 3.75rem;
-  padding-top: 1.0rem;
+  padding-top: 4.125rem;
   overflow: hidden;
 }
 
