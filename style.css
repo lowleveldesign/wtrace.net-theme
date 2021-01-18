@@ -1225,7 +1225,7 @@ border-bottom: none!important;
 ---------------------------------------*/
 .topbutton  {
     position: fixed;
-    bottom: 25px;
+    bottom: 65px;
     right: 25px;
     display: none;
     z-index:100;
@@ -1436,7 +1436,7 @@ body:not(.theme-preset-active) .navbar-nav li.active > a{
 
 #content.site-content {
   padding-bottom: 3.75rem;
-  padding-top: 4.125rem;
+  padding-top: 5.7rem;
   overflow: hidden;
 }
 
