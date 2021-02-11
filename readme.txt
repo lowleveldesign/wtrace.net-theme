@@ -5,7 +5,7 @@ Theme Name: WK Wow
 Theme URI: https://web-komp.eu/theme/wow
 Author: WebKomp
 Author URI: https://web-komp.eu/
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wk-wow
